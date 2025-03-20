@@ -22,6 +22,20 @@ npm install
 npm run dev
 ```
 
+## テスト方法
+
+```bash
+# テストの実行
+npm test
+```
+
+## コードフォーマット方法
+
+```bash
+# コードフォーマットの実行
+npm run fmt
+```
+
 ## ディレクトリ構造
 
 ```
